@@ -1,4 +1,4 @@
-name: flask app deployment to ACI
+name: prod flask app deployment to ACI
 
 on:
   push:
